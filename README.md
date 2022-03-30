@@ -1,4 +1,4 @@
-# Quix library
+# Quix library Is Awesome
 ## Library samples repository for [Quix](https://quix.ai) platform. 
 
 The Quix library contains pre-built, open source code samples that you can use to quickly create a pipeline that transforms data in real time while it travels from source to destination. 
